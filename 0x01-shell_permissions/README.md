@@ -9,3 +9,4 @@
 8-James_Bond gives permission to all other users
 9-John_Doe changes the file mode of hello
 10-mirror_permissions sets the mode of the file hello the same as olleh's
+11-directories_permissions adds execute permissions to all subdirectories for the owner, the group owner and all users
