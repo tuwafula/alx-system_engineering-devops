@@ -6,3 +6,4 @@
 5-execute makes the file hello executable
 6-multiple_permissions adds execution permission to file owner and users
 7-everybody adds execution permission to everybody
+8-James_Bond gives permission to all other users
