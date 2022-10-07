@@ -7,3 +7,4 @@
 6-multiple_permissions adds execution permission to file owner and users
 7-everybody adds execution permission to everybody
 8-James_Bond gives permission to all other users
+9-John_Doe changes the file mode of hello
