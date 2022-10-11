@@ -14,3 +14,4 @@
 13-unique displays unique words
 14-findthatword display lines with pattern root
 15-countthatword displays the number of lines that contain the pattern "bin"
+16-whatsnext displays the pattern "root" and 3 lines after them in the file
