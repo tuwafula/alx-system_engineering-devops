@@ -8,3 +8,5 @@
 7-file creates a new file
 8-cwd_state checks state of current working directory
 9-duplicate_last_line duplicates data
+10-no_more_js deletes all .js files
+11-directories counts number of directories and subdirectories
